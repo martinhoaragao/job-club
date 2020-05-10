@@ -1511,6 +1511,15 @@ section {
   text-decoration: none;
 }
 
+#footer .footer-top .social-links.disabled a {
+  opacity: 50%;
+}
+
+#footer .footer-top .social-links.disabled a:hover {
+  background: none;
+  text-decoration: none;
+}
+
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: 600;
